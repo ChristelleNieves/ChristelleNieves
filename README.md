@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christelle!</h1>
 <h3 align="center">A software developer from Orlando, FL</h3>
 
-- 🌱 I’m currently learning **iOS development with Swift and UIKit**
+<center>- 🌱 I’m currently learning **iOS development with Swift and UIKit**</center>
 
 
 <h3 align="center">Languages and Tools:</h3>
