@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christelle!</h1>
 <h3 align="center">A software developer from Orlando, FL</h3>
 
-- 👩🏻‍🎓 I graduated with a Bachelor's degree in Computer Science from Florida State University
-- 🧩 I have built projects in languages including Java, Python, C++, and Swift.
-- 🌱 I’m currently learning **iOS development**
+- 👩🏻‍🎓  I graduated with a Bachelor's degree in Computer Science from Florida State University
+- 🧩  I've built projects in languages including Java, Python, C++, and Swift.
+- 🌱  I’m currently learning **iOS development**
 
 
 <h3 align="left">Languages and Tools:</h3>
