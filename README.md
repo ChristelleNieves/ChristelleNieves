@@ -1,5 +1,7 @@
+![christelle over (1)](https://user-images.githubusercontent.com/29238419/135743419-9b9aad1b-26dc-4f41-a543-28342770f91d.gif)
+
 <h1 align="center">Hi 👋, I'm Christelle!</h1>
-<h3 align="center">✨A software developer from Orlando, FL✨</h3>
+<h3 align="center">✨A software engineer from Orlando, FL✨</h3>
 
 - 👩🏻‍🎓  I graduated with a Bachelor's degree in Computer Science from Florida State University
 - 🧩  I've built projects in languages including Java, Python, C++, and Swift.
