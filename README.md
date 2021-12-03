@@ -1,11 +1,6 @@
-![christelle over (1)](https://user-images.githubusercontent.com/29238419/135743419-9b9aad1b-26dc-4f41-a543-28342770f91d.gif)
 
 <h1 align="center">Hi! I'm Christelle! 👾</h1>
 <h2 align="center">I like designing and building cool stuff</h2>
-
-- 👩🏻‍🎓  I graduated with a Bachelor's degree in Computer Science and Mathematics from Florida State University
-- 🧩  I've worked on projects in languages including Java, Python, C++, and Swift.
-- 📱  Now I build iOS apps for a living
 
 ## My Portfolio
 - Check out my work on my personal website [Here](https://christelle.dev)
